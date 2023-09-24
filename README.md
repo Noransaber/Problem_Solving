@@ -1,11 +1,11 @@
-# Problem Solving Repository
+# Problem Solving Repository🧑‍💻
 
-**Welcome to the Problem Solving Repository! This repository is a collection of solutions to coding problems from various online platforms like LeetCode, Codeforces, HackerRank, and more. Whether you're preparing for technical interviews or simply honing your coding skills, you'll find a wide range of problems and their solutions here**
+Welcome to the Problem Solving Repository! This repository is a collection of solutions to coding problems from various online platforms like LeetCode, Codeforces, HackerRank, and more. Whether you're preparing for technical interviews or simply honing your coding skills, you'll find a wide range of problems and their solutions here
 
 <img src="ps.jpg" alt="">
 
-## Contributing
-**We welcome contributions to this repository! If you have a new problem and solution to add, follow these steps**
+## Contributing🤝
+**We welcome contributions to this repository! If you have a new problem and solution to add, follow these steps**❤️
 
 1. Fork the repository to your GitHub account.
 2. Create a new branch for your feature or problem.
