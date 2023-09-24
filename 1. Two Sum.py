@@ -1,7 +1,8 @@
+# The problem:
 # Given an array of integers nums and an integer
 # target, return indices of the two numbers such that they add up to target.
 
-#Pseudocode
+#Pseudocode:
 #Reuqirment: to have the index and the value of each element in the list, have the target to comapre
 #steps: looping over the list for the first time to have the index and the value of the first position
 #looping for the second time from the second position to have the index and the value too
