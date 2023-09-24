@@ -33,3 +33,11 @@ Problem-solving is a crucial skill that transcends various aspects of life, incl
 5. Create a pull request, describing the problem and solution you're adding.
 6. Your contribution will be reviewed, and once approved, it will be merged into the main repository.
 7. Please maintain a clean and consistent coding style when contributing.
+
+### My blog on the topic of problem-solving
+- [How to Develop Problem Solving Skills as a Newbie Programmer](https://medium.com/@noransaber685/how-to-develop-problem-solving-skills-as-a-newbie-programmer-c9f78697cdcd)
+### FreeCodeCamp Blog
+- [How to think like a programmer — lessons in problem solving](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+- [FreeCodeCamp Blogs](https://www.freecodecamp.org/news/tag/problem-solving/)
+
+
