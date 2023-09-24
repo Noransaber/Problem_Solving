@@ -1,6 +1,7 @@
 # Problem Solving Repository🧑‍💻
 
 Welcome to the Problem Solving Repository! This repository is a collection of solutions to coding problems from various online platforms like LeetCode, Codeforces, HackerRank, and more. Whether you're preparing for technical interviews or simply honing your coding skills, you'll find a wide range of problems and their solutions here
+[leetcode](https://leetcode.com/problems/two-sum/)
 
 <img src="ps.jpg" alt="">
 
