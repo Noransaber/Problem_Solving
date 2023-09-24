@@ -4,7 +4,8 @@ Welcome to the Problem Solving Repository! This repository is a collection of so
 [Leetcode](https://leetcode.com/problemset/all/?difficulty=EASY&page=1)
 
 <img src="ps.jpg" alt="">
-**Why are Problem problem-solving skills important?**🤔
+
+## Why are Problem problem-solving skills important?🤔
 Problem-solving is a crucial skill that transcends various aspects of life, including education, career, personal development, and even daily life situations. Here are some key reasons why problem-solving is important:
 
 | Key Reasons for the Importance of Problem Solving |
